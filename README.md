@@ -1,6 +1,6 @@
 # MIRROR
 
-This is a mirror, if the [original](https://github.com/TheGreatSageEqualToHeaven/Fiu/blob/main/Source.lua) is available please use that.
+This is a mirror, if the [original](https://github.com/TheGreatSageEqualToHeaven/NaNet) is available please use that.
 
 # NaNet "Not another Networking library!"
 A small, type-checked networking library for Roblox
