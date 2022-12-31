@@ -5,12 +5,6 @@ This is a mirror, if the [original](https://github.com/TheGreatSageEqualToHeaven
 # NaNet "Not another Networking library!"
 A small, type-checked networking library for Roblox
 
-# Reporting Issues & Requesting Features
-If you want to request a feature make an issue with the `enchancement` tag, if you want to report an issue make an issue with the `bug` tag.
-
-# Contributing
-If you wish to contribute, make a pull request and I will review it!
-
 # Wrapper API
 
 ```lua
